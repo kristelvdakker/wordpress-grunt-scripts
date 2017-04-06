@@ -1,5 +1,3 @@
 # wordpress-grunt-scripts
 
-![npm version](http://img.shields.io/npm/v/grunt-rsync.svg?style=flat)
-![npm downloads per month](http://img.shields.io/npm/dm/grunt-rsync.svg?style=flat)
-![david dependencies](http://img.shields.io/david/jedrichards/grunt-rsync.svg?style=flat)
+[![GitHub issues](https://img.shields.io/github/issues/kristelvdakker/wordpress-grunt-scripts.svg)](https://github.com/kristelvdakker/wordpress-grunt-scripts/issues)
